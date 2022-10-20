@@ -1,0 +1,6 @@
+2022/10/13-06:34:44.590 f7e Reusing MANIFEST /home/donghoon/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/13-06:34:44.590 f7e Recovering log #3
+2022/10/13-06:34:44.720 f7e Reusing old log /home/donghoon/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/10/13-06:35:20.302 f7e Level-0 table #5: started
+2022/10/13-06:35:20.628 f7e Level-0 table #5: 1980405 bytes OK
+2022/10/13-06:35:20.643 f7e Delete type=0 #3
